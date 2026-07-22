@@ -1,0 +1,8 @@
+pandas
+openpyxl
+pillow
+customtkinter
+tkinterdnd2
+rapidocr
+onnxruntime
+pymysql

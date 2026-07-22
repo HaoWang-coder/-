@@ -1,0 +1,4 @@
+rapidocr
+pymysql
+pillow
+customtkinter
